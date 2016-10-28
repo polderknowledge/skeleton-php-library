@@ -47,7 +47,7 @@ channel #polderknowledge.
 
 ## Credits
 
-- [{ORG_NAME}][link-author]
+- [{ORGANIZATION}][link-author]
 - [All Contributors][link-contributors]
 
 ## License
