@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ruleset name="{PACKAGE_VENDOR}/{PACKAGE_NAME}">
+    <description>The coding standards of {PACKAGE_VENDOR}/{PACKAGE_NAME}</description>
+
+    <rule ref="vendor/polderknowledge/coding-standards/PolderKnowledge/ruleset.xml">
+    </rule>
+</ruleset>
